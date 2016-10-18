@@ -4,19 +4,15 @@ Anecdotally,	fluctuations	in	the	exchange	rate	between	Canadian	and	US	dollars	a
 and	economic	factors.	This	report	presents a	model	combining those	influences. A multiple	regression	model	using	
 oil	futures	open	price,	gold	price,	and	Canadian	GDP	is	found	useful	in	explaining the	variability	in USD/CAD	FX rate.
 
-**Keywords**:		Foreign	exchange,	oil	futures,	oil	price,	GDP,	gold	price,	commodity	prices
-
 ## Introduction
 
-Foreign exchange	(FX)	allows	goods	and	services	to	move around	the	world.	The	FX	market	is	global	and	decentralized.
-It	is	the	world’s	largest	market,	with	the	main	participants	being	large	banks.
+Foreign exchange	(FX)	allows	goods	and	services	to	move around	the	world.	The	FX	market	is	global	and	decentralized. It	is	the	world’s	largest	market,	with	the	main	participants	being	large	banks.
 
 The	FX	market’s three	main	participants’	are traders,	corporate	CFO’s,	and	governments.	For	traders,	rates	support
 hedging	risk, pursuing profits, pricing	FX derivatives, and	algorithmic	trading.	For	CFO’s,	rates	support	assessing	risk	
 and	cross-border	ventures.	For	governments,	rates	support	budgeting	and	setting	monetary	policy.
 
-Given	the criticality of	FX	rates to the	global	economy,	and	the	sizeable profit-making	opportunities,	both	explanation and	prediction	are	interesting	and	valuable.	Explanation offers the	promise	of	helping with	key	tasks	above.	Prediction
-offers	more	-- the	allure of	profit-making.	This report	aims to	create	an	explanation	model	that	will	form	a	foundation for	our	aspirational goal	of prediction.	(Prediction	is	a	bit	harder.)
+Given	the criticality of	FX	rates to the	global	economy,	and	the	sizeable profit-making	opportunities,	both	explanation and	prediction	are	interesting	and	valuable.	Explanation offers the	promise	of	helping with	key	tasks	above. Prediction offers	more	-- the	allure of	profit-making.	This report	aims to	create	an	explanation	model	that	will	form a	foundation for	our	aspirational goal	of prediction.	(Prediction	is	a	bit	harder.)
 
 This	report will	focus	on	the	exchange	rate	between	US	and	Canadian	dollars (USD	and	CAD).	The	US	is	a	major	trading
 partner	for	much	of	the	world,	and	the	USD	is	often	seen as	the	benchmark	currency	in	global	markets.	The	Canadian
