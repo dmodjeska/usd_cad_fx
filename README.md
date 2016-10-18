@@ -82,3 +82,12 @@ This	results	in	reliable,	plentiful,	and	public	data	for	research.
 * **Oil	Futures	Price**: US	Energy	Information	Administration, https://www.eia.gov/dnav/pet/pet_pri_fut_s1_d.htm
 * **Gold	Spot	Price**: Quandl, https://www.quandl.com/collections/markets/gold
 * **Gold	Futures	Price**: Quandl, www.quandl.com
+
+## Project Files
+
+
+* [USD_CAD_FX_Report.docx](USD_CAD_FX_Report.docx), [USD_CAD_FX_Report.pdf](USD_CAD_FX_Report.pdf) - project report
+* [usd_cad_fx_analysis.R](usd_cad_fx_analysis.R) - R script for exploratory analysis
+* [usd_cad_fx_analysis_1.spv](usd_cad_fx_analysis_1.spv), [usd_cad_fx_analysis_2.spv](usd_cad_fx_analysis_2.spv), [usd_cad_fx_stepwise_regression.spv](usd_cad_fx_stepwise_regression.spv) - output files from analysis in SPSS
+* [usd_cad_fx_data.csv](usd_cad_fx_data.csv), [usd_cad_fx_data_filled.csv](usd_cad_fx_data_filled.cs) - analysis data in CSV format
+* [usd_cad_fx_data.sav](usd_cad_fx_data.sav) - analysis data in SPSS format
