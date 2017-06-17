@@ -14,16 +14,16 @@ and	cross-border	ventures.	For	governments,	rates	support	budgeting	and	setting	
 
 Given	the criticality of	FX	rates to the	global	economy,	and	the	sizeable profit-making	opportunities,	both	explanation and	prediction	are	interesting	and	valuable.	Explanation offers the	promise	of	helping with	key	tasks	above. Prediction offers	more	-- the	allure of	profit-making.	This report	aims to	create	an	explanation	model	that	will	form a	foundation for	our	aspirational goal	of prediction.	(Prediction	is	a	bit	harder.)
 
-This	report will	focus	on	the	exchange	rate	between	US	and	Canadian	dollars (USD	and	CAD).	The	US	is	a	major	trading
+This	report focuss	on	the	exchange	rate	between	US	and	Canadian	dollars (USD	and	CAD).	The	US	is	a	major	trading
 partner	for	much	of	the	world,	and	the	USD	is	often	seen as	the	benchmark	currency	in	global	markets.	The	Canadian
 dollar	is	a	commodity	currency	with	high	volatility	and	trading	volume.	This	is	attractive	to	traders	as	there	is	
 liquidity	and	profit	potential.	(Also,	the	US	is	Canada’s	largest	trading	partner.)
 
 ## Conclusion
 
-This	study	has	validated	our three	hypotheses:	that	each	of	oil	price,	gold	price,	and	Canadian	GDP	will	explain	a	significant amount	of	the	variability	in	exchange	rate	between	the	US	and	Canadian	dollars,	after	accounting	for	other	 variables	in	the	model.	The	result	is	a	multiple	regression	model	with	three	predictors:	oil	futures	open	price (with	 linear	and	quadratic	terms),	gold	spot	price,	and	Canadian	GDP.	In	addition	to	each	of	these	predictors	being	useful	individually,	the	overall	model	explains	approximately	93%	of	the	variability	in	USD/CAD	FX	rate.	
+This	study	validated	our three	hypotheses:	that	each	of	oil	price,	gold	price,	and	Canadian	GDP	explains	a	significant amount	of	the	variability	in	exchange	rate	between	the	US	and	Canadian	dollars,	after	accounting	for	other	 variables	in	the	model.	The	result	is	a	multiple	regression	model	with	three	predictors:	oil	futures	open	price (with	 linear	and	quadratic	terms),	gold	spot	price,	and	Canadian	GDP.	In	addition	to	each	of	these	predictors	being	useful	individually,	the	overall	model	explained	approximately	93%	of	the	variability	in	USD/CAD	FX	rate.	
 
-As	expected,	this	study	validated	the	public	view	of	Canada’s	as	a	resource-based	economy,	particularly	focused	on oil.	In	our	analysis,	a	simple	linear	regression	model	with	a	single	predictor	– oil	price	– accounted	for	approximately	 67%	of	the	variability	in	USD/CAD	FX	rate.	Despite	the	importance	of	oil	as	a	predictor,	however,	other	factors	 strongly	affect	the	USD/CAD	FX	rate,	as	shown	by	our	final	model.	
+As	expected,	this	study	validated	the	public	view	of	Canada’s	as	a	resource-based	economy,	particularly	focused	on oil.	In	our	analysis,	a	simple	linear	regression	model	with	a	single	predictor	– oil	price	– accounted	for	approximately	 67%	of	the	variability	in	USD/CAD	FX	rate.	Despite	the	importance	of	oil	as	a	predictor,	however,	other	factors	 strongly	affected	the	USD/CAD	FX	rate,	as	shown	by	our	final	model.	
 
 Several	surprises	arose	during	this	analysis:
 
